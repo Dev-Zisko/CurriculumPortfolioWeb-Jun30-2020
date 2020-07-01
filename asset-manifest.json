@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/curriculum-portfolio/static/css/main.dcd419e5.chunk.css",
-    "main.js": "/curriculum-portfolio/static/js/main.1719416b.chunk.js",
-    "main.js.map": "/curriculum-portfolio/static/js/main.1719416b.chunk.js.map",
+    "main.js": "/curriculum-portfolio/static/js/main.f78e405b.chunk.js",
+    "main.js.map": "/curriculum-portfolio/static/js/main.f78e405b.chunk.js.map",
     "runtime-main.js": "/curriculum-portfolio/static/js/runtime-main.133326c8.js",
     "runtime-main.js.map": "/curriculum-portfolio/static/js/runtime-main.133326c8.js.map",
     "static/js/2.7834407a.chunk.js": "/curriculum-portfolio/static/js/2.7834407a.chunk.js",
     "static/js/2.7834407a.chunk.js.map": "/curriculum-portfolio/static/js/2.7834407a.chunk.js.map",
     "index.html": "/curriculum-portfolio/index.html",
-    "precache-manifest.aa29816ffe04218946edaccd8ea37666.js": "/curriculum-portfolio/precache-manifest.aa29816ffe04218946edaccd8ea37666.js",
+    "precache-manifest.d2e7c52379f0b777451277db2e19c42f.js": "/curriculum-portfolio/precache-manifest.d2e7c52379f0b777451277db2e19c42f.js",
     "service-worker.js": "/curriculum-portfolio/service-worker.js",
     "static/css/main.dcd419e5.chunk.css.map": "/curriculum-portfolio/static/css/main.dcd419e5.chunk.css.map",
     "static/js/2.7834407a.chunk.js.LICENSE.txt": "/curriculum-portfolio/static/js/2.7834407a.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.133326c8.js",
     "static/js/2.7834407a.chunk.js",
     "static/css/main.dcd419e5.chunk.css",
-    "static/js/main.1719416b.chunk.js"
+    "static/js/main.f78e405b.chunk.js"
   ]
 }
